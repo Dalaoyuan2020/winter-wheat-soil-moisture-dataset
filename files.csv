@@ -1,0 +1,13 @@
+file,site,station,province,type,records,columns,first_record,last_record,interval,original_filename,md5
+soil/site1_bozhou_soil.xlsx,1,Bozhou,Anhui,soil,13416,22,2020-10-01 00:02,2022-04-14 23:02,hourly,预测点1墒情.xlsx,ebc36f36090a3dc8982cb8e9b31a4abd
+meteorology/site1_bozhou_meteorology.xlsx,1,Bozhou,Anhui,meteorology,13824,9,2020-10-01 00:00,2022-04-29 23:00,hourly,预测点1气象.xlsx,f93746dc8cf2603f7d19bbd708c15133
+soil/site2_cangzhou_soil.xlsx,2,Cangzhou,Hebei,soil,13416,22,2020-10-01 00:01,2022-04-14 23:01,hourly,预测点2墒情.xlsx,e8b1f2a166fc4361570a81d6decb58f5
+meteorology/site2_cangzhou_meteorology.xlsx,2,Cangzhou,Hebei,meteorology,13822,9,2020-10-01 00:00,2022-04-29 23:00,hourly,预测点2气象.xlsx,a707a73dbb47d575862fff3c6ecf8836
+soil/site3_zhumadian_soil.xlsx,3,Zhumadian,Henan,soil,13403,22,2020-10-01 00:02,2022-04-14 23:02,hourly,预测点3墒情.xlsx,21133aa2573009797920e1414c3f6283
+meteorology/site3_zhumadian_meteorology.xlsx,3,Zhumadian,Henan,meteorology,13837,9,2020-10-01 00:00,2022-04-29 23:01,hourly,预测点3气象.xlsx,d5d3b3449a834ecdee98ff7d25b2d928
+soil/site4_heze_soil.xlsx,4,Heze,Shandong,soil,13405,22,2020-10-01 00:02,2022-04-14 23:02,hourly,预测点4墒情.xlsx,11194aeab0412cb5ea8da63c2b02e263
+meteorology/site4_heze_meteorology.xlsx,4,Heze,Shandong,meteorology,13824,9,2020-10-01 00:00,2022-04-29 23:01,hourly,预测点4气象.xlsx,7c45e033ebc71c830237c6681a6d3e75
+soil/site5_lvliang_soil.xlsx,5,Lvliang,Shanxi,soil,13405,22,2020-10-01 00:04,2022-04-14 23:05,hourly,预测点5墒情.xlsx,3e78adc0da12a7940ba7d49a7044487b
+meteorology/site5_lvliang_meteorology.xlsx,5,Lvliang,Shanxi,meteorology,27647,9,2020-10-01 00:01,2022-04-29 23:30,30 min,预测点5气象.xlsx,65c40aae2f97c604adfad95e404657af
+soil/site6_baoji_soil.xlsx,6,Baoji,Shaanxi,soil,13419,22,2020-10-01 00:01,2022-04-14 23:01,hourly,预测点6墒情.xlsx,2aa83df2148452ea4e7082cbf7e13aa0
+meteorology/site6_baoji_meteorology.xlsx,6,Baoji,Shaanxi,meteorology,82940,9,2020-10-01 00:00,2022-04-29 23:51,10 min,预测点6气象.xlsx,f2af73dcf0d762527ff3794f890f7db3
