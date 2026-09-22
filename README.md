@@ -51,10 +51,11 @@ worksheet (`data`); the first column (`时间`) is the timestamp.
 
 Depth labels are written `10`, `10cm` or `10CM` depending on the station.
 
-**Measurement depths.** Sites 1, 2, 4, 5 and 6: soil temperature and soil water
-content at 10, 20, ..., 100 cm. **Site 3 (Zhumadian)** differs: soil temperature
-and soil water content at 10, 20, 30, 40, 50, 60, 80, 100, 120 and 150 cm (no 70 cm
-or 90 cm sensor). Check the headers before stacking the sites by depth.
+**Measurement depths.** All six stations use the same sensor configuration: soil
+temperature and soil water content at 10, 20, ..., 100 cm. In the site 3 (Zhumadian)
+files the last four depth labels read 80, 100, 120 and 150 cm; this is a labelling
+error in the exported headers, and these columns correspond to 70, 80, 90 and 100 cm.
+The headers are left as delivered.
 
 **Meteorological files** (9 columns; column order differs between stations)
 
