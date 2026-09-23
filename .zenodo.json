@@ -1,0 +1,11 @@
+{
+  "title": "Root-zone soil moisture and meteorological records from six winter-wheat stations in northern China (2020-2022)",
+  "upload_type": "dataset",
+  "description": "Hourly soil temperature and soil water content profiles and meteorological records from six agro-meteorological stations in northern China's winter-wheat region (Bozhou, Cangzhou, Zhumadian, Heze, Lvliang, Baoji), October 2020 to April 2022, provided unprocessed. Used in the study 'Information requirements for short-term root-zone soil moisture forecasting: A case study in northern China's winter-wheat region'.",
+  "creators": [
+    {"name": "Lyu, Zhiyuan", "affiliation": "College of Mechanical and Electrical Engineering, Hohai University"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["soil moisture", "root zone", "winter wheat", "agrometeorology", "irrigation", "time series"],
+  "access_right": "open"
+}

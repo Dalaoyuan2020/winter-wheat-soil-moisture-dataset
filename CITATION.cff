@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, together with the accompanying paper once published."
+type: dataset
+title: "Root-zone soil moisture and meteorological records from six winter-wheat stations in northern China (2020-2022)"
+authors:
+  - family-names: Lyu
+    given-names: Zhiyuan
+    affiliation: "College of Mechanical and Electrical Engineering, Hohai University"
+license: CC-BY-4.0
+repository-code: "https://github.com/Dalaoyuan2020/winter-wheat-soil-moisture-dataset"
+keywords: [soil moisture, root zone, winter wheat, agrometeorology, irrigation]
